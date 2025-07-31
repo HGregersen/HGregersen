@@ -5,10 +5,10 @@
 I am a Junior majoring in **Mathematics-Computer Science at the Univserity of California, San Diego (UCSD)**. I am involved in **Women in Computing (WIC)** and the **Society of Asian Scientists and Engineers (SASE)** at UCSD with my roles on the Diversity, Equity, and Inclusion committee and as an Outreach Coordinator respectively, I have further developed my interest in building and encouraging community in technology.
 
 ## 🤔 My Interests
-🧠 mental health & memory (thank you, LEGO)
-🪻 sustainability & climate change
-🤖 machine learning
-🧮 statistics
+🧠 mental health & memory (thank you, LEGO)  
+🪻 sustainability & climate change  
+🤖 machine learning  
+🧮 statistics  
 
 ## 📖Languages & Skills
 [![My Skills](https://skillicons.dev/icons?i=java,py,r,matlab,cpp,powershell,bash,html)](https://skillicons.dev)
