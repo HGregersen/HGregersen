@@ -15,10 +15,10 @@ I am a Junior majoring in **Mathematics-Computer Science at the Univserity of Ca
 
 ## :rocket: Projects
 [Break Through Tech AI Repo](https://github.com/HGregersen/BreakThroughTechAI25)  
-This is a general repository where I plan to include my labs and projects from the Break Through Tech AI program. I utilize python and libraries like pandas, seaborn, scikit-learn, etc.  
+This is a general repository where I plan to include my labs and projects from the Break Through Tech AI program. I utilize python and libraries like pandas, seaborn, scikit-learn,  etc.  
 
 [Longitudinal Mental Health Analysis](https://github.com/HGregersen/Longitudinal-Mental-Health-Analysis)  
-This is the repository for my COGS 108 project I did at UCSD my second year where we pulled from a study to check for correlation between early development parental care and adult mental health before developing predictors for it with a support vector classifier.
+This is the repository for my COGS 108 project I did at UCSD my second year where we pulled from a study to check for correlation between early development parental care and adult mental health before developing predictors for it with a support vector classifier and random forest regression.
 
 ## :stars: How to Reach Me
 * [Email](mailto:hikari.gregersen@ucsd.edu)
